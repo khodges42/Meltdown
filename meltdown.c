@@ -73,6 +73,10 @@ void clflush_target(void)
 const char * array[] = {
     "gucci gang gucci gang gucci gang gucci gang",
     "gucci gang gucci gang gucci gang gucci gang",
+    "spend three racks on new CPU",
+    "my devs love do sniff glue",
+    "I aint write a proper cpu",
+    "rather go and speculative execute",
     "gucci gang gucci gang gucci gang gucci gang",
     "gucci gang gucci gang gucci gang gucci gang",
     "gucci gang gucci gang gucci gang gucci gang",
